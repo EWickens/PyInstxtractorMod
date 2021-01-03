@@ -1,10 +1,10 @@
 # PyInsxtractorMod
-Modified version of Ming Loh/Countercepts Pyinstxtractory which will automatically prepend correct bytecode headers and then decompile the bytecode.
+Modified version of Ming Loh/Countercepts Pyinstxtractor which will automatically prepend correct bytecode headers and then decompile the bytecode.
 
 Requirements:<br>
-Python 3.8<br>
-Uncompyle6 for Python -3.6<br>
-Decompyle3 for Python 3.6+<br>
+- Python 3.8<br>
+- Uncompyle6 for Python -3.6<br>
+- Decompyle3 for Python 3.6+<br>
 
 This will automatically prepend correct bytecode headers by extracting the correct header from the pyc files in the PYZ_Extracted folder.
 
